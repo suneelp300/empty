@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge conflicts branch b
+=======
+merge-conflicts-day2
+>>>>>>> feature-day2
